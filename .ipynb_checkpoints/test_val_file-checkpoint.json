@@ -1,0 +1,34 @@
+[
+  {
+    "name": "1.jpg",
+    "attributes": {
+      "weather": "overcast",
+      "scene": "city street",
+      "timeofday": "daytime"
+    }
+  },
+  {
+    "name": "2.jpg",
+    "attributes": {
+      "weather": "rainy",
+      "scene": "highway",
+      "timeofday": "night"
+    }
+  },
+  {
+    "name": "3.jpg",
+    "attributes": {
+      "weather": "snowy",
+      "scene": "city street",
+      "timeofday": "daytime"
+    }
+  },
+  {
+    "name": "4.jpg",
+    "attributes": {
+      "weather": "foggy",
+      "scene": "highway",
+      "timeofday": "night"
+    }
+  }
+]
